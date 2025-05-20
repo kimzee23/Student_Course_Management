@@ -1,0 +1,6 @@
+Student,jide,Jide@gmail.com,passwordJide
+Facilitator,ade,ope,qwe
+student,Jide,Jide@gmail.com,1234
+student,Jide,Jide@gmail.com,1234
+student,Jide@gmail.com,Jide,11234
+Student,gazar,gazar@gmail.com,12345

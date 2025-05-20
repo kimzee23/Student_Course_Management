@@ -1,0 +1,25 @@
+<!--{% extends "base.html" %}-->
+<!--{% block content %}-->
+<h2>Register</h2>
+<form method="POST">
+    <label>Name:</label><label>
+    <input type="text" name="name" required>
+</label><br>
+    <label>Email:</label><label>
+    <input type="email" name="email" required>
+</label><br>
+    <label>Password:</label>
+    <label>
+        <input type="password" name="password" required>
+    </label>
+    </label><br>
+    <label>Type:</label>
+    <label>
+        <select name="user_type">
+            <option value="student">Student</option>
+            <option value="facilitator">Facilitator</option>
+        </select>
+    </label><br>
+    <input type="submit" value="Register">
+</form>
+<!--{% endblock %}-->
